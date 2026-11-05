@@ -3,7 +3,7 @@
 I'm a third-year Math & Computing student at BITS Pilani Goa, based in Goa, India.
 
 I'm building **[Clarly](https://heyclarly.com)**, a live voice AI tutor that explains hard concepts out loud
-while it draws on a board. I work on it alone: product, frontend, backend and the AI pipeline.
+while it draws on a board.
 
 ## Projects
 
